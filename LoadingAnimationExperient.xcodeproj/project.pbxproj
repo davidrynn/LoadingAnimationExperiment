@@ -15,6 +15,7 @@
 		22B6563D2410D10000CA15F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22B6563B2410D10000CA15F2 /* LaunchScreen.storyboard */; };
 		22B656452410D15E00CA15F2 /* ContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B656442410D15E00CA15F2 /* ContainerView.swift */; };
 		22B656472410D24700CA15F2 /* DotLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B656462410D24700CA15F2 /* DotLayer.swift */; };
+		22B6564924112E1000CA15F2 /* LoadingDotBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B6564824112E1000CA15F2 /* LoadingDotBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		22B6563E2410D10000CA15F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22B656442410D15E00CA15F2 /* ContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView.swift; sourceTree = "<group>"; };
 		22B656462410D24700CA15F2 /* DotLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DotLayer.swift; sourceTree = "<group>"; };
+		22B6564824112E1000CA15F2 /* LoadingDotBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingDotBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				22B656302410D0FE00CA15F2 /* AppDelegate.swift */,
 				22B656442410D15E00CA15F2 /* ContainerView.swift */,
 				22B656462410D24700CA15F2 /* DotLayer.swift */,
+				22B6564824112E1000CA15F2 /* LoadingDotBuilder.swift */,
 				22B656322410D0FE00CA15F2 /* SceneDelegate.swift */,
 				22B656342410D0FE00CA15F2 /* ViewController.swift */,
 				22B656362410D0FE00CA15F2 /* Main.storyboard */,
@@ -148,6 +151,7 @@
 				22B656472410D24700CA15F2 /* DotLayer.swift in Sources */,
 				22B656352410D0FE00CA15F2 /* ViewController.swift in Sources */,
 				22B656312410D0FE00CA15F2 /* AppDelegate.swift in Sources */,
+				22B6564924112E1000CA15F2 /* LoadingDotBuilder.swift in Sources */,
 				22B656332410D0FE00CA15F2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
